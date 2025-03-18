@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#62D382</headerColor>
+        <logo>unsubscribe</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>consolidating information about Unsubsribe Link&apos;s performance and implementation in your org</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Unsubcribe Link Management</label>
+    <navType>Standard</navType>
+    <tabs>Unsubscribe_Link_App_Page</tabs>
+    <tabs>UnsubscribeLnk__Unsubscribe_Link_Setup__c</tabs>
+    <tabs>UnsubscribeLnk__Unsubscribe__c</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-EmailTemplate</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Unsubcribe_Link_Management_UtilityBar</utilityBar>
+</CustomApplication>
